@@ -1,0 +1,10 @@
+Package: com.killi8n.youtubetweak
+Name: YoutubeTweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: killi8n
+Author: killi8n
+Section: Tweaks
+Version: 0.0.1-10+debug
+Installed-Size: 136
